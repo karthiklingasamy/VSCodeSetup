@@ -1,0 +1,55 @@
+1. Download Python Extension
+
+2. Create Simple Python Script
+import sys
+
+print(sys.version)
+print(sys.executable)
+
+Note: 
+The above code shows the where the default python interpritor installed
+
+3. Open Controll Pallet to Setup Colour Theam Predawn Theme Kit
+CTRL+Shift+P
+>colour Theam>go to Install Additional color theam>select Predawn Theme Kit>set Colour theam Predawn Theme Kit
+Go to py file and see corey theam will come
+
+4. Open Controll Pallet to Setup CFile Icon
+CTRL+Shift+P
+>file icon>go to Install Additional File Icon theam>Slect Ayu> It might overwite your colour theam>select Predawn Theme Kit again>set file icon ayu
+
+5. (User Settings) Go to settings using Gear Icon and select settings> go to json format
+6. (Default Settings) Open Controll Pattet CTRL_Shift+P and type Default Settings to comapre side by Side
+
+7.Build json file
+
+8. Create pipenv refer karthik git
+
+9. Auto format python code
+short to format python coda manually > Shift+Alt+F
+
+>vs cod popup will come and select Use Black
+
+10. Open Controll Pallet to Setup short imports
+CTRL+Shift+P
+>short import 
+just select and it will automatically start short import. every time do mannually
+
+11. Open Controll Pallet to Setup Install linting
+>CTRL+Shift+P
+>run linting 
+popup will come and select pylint
+
+
+12. install code runner to run script using button
+
+
+
+
+
+
+
+
+
+
+
